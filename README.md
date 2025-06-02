@@ -16,6 +16,8 @@ pip install datetime
 
 pip install requests
 
+pip install re
+
 In the file you must put your bitget api keys:
 
 apiKey = "your bitget apiKey"
